@@ -1,0 +1,17 @@
+{
+  "name": "sleekdealsdjango",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hi 👋, I'm Pratham Tomar</h1> <h3 align=\"center\">A passionate Fullstack Developer from Srmist college , India</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/runtime-corejs3": "^7.25.0",
+    "core-js-pure": "^3.37.1",
+    "jquery": "^3.7.1"
+  }
+}
